@@ -68,3 +68,7 @@ body {
 .join-now:hover {
     background-color: rgba(0, 0, 0, 0.7);
 }
+
+.sign-in:hover {
+    background-color: rgba(0, 0, 0, 0.06);
+}
