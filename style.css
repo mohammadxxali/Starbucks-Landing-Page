@@ -19,3 +19,8 @@ body {
     align-items: center;
     margin: auto;
 }
+
+.navbar-left svg {
+    width: 50px;
+    margin-right: 20px;
+}
