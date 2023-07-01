@@ -29,3 +29,8 @@ body {
     text-transform: uppercase;
     font-weight: 600;
 }
+
+.navbar-left div:hover,
+.find-a-store:hover {
+    color: #00754a;
+}
