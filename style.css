@@ -34,3 +34,14 @@ body {
 .find-a-store:hover {
     color: #00754a;
 }
+
+.navbar-left,
+.navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left > *,
+.navbar-right > * {
+    margin: 10px;
+}
