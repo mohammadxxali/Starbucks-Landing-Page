@@ -123,3 +123,8 @@ body {
 .product-button-white {
     color: white;
 }
+
+.product-button-black {
+    color: black;
+    border-color: black;
+}
