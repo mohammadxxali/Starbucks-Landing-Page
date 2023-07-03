@@ -77,3 +77,12 @@ body {
     max-width: 1440px;
     margin: auto;
 }
+
+.product img {
+    max-width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
+.product {
+    display: flex;
+}
