@@ -119,3 +119,7 @@ body {
     margin: auto;
     margin-bottom: 30px;
 }
+
+.product-button-white {
+    color: white;
+}
