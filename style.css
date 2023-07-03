@@ -128,3 +128,9 @@ body {
     color: black;
     border-color: black;
 }
+
+.product-description {
+    text-align: center;
+    padding: 30px 60px 30px 60px;
+    font-size: 18px;
+}
