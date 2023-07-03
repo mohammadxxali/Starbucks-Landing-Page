@@ -98,3 +98,9 @@ body {
     align-content: stretch;
     flex-direction: column;
 }
+
+.product-title {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
